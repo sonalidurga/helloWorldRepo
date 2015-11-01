@@ -15,4 +15,4 @@ print "hello world"
 ```
 
 
-This is cool.
+This is simple only. Nothing too cool about it. 
